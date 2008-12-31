@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - provides an easy-to-use interface to progress bars
 Name:		php-pear-%{_pearname}
 Version:	0.2
-Release:	%mkrel 10
+Release:	%mkrel 11
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2

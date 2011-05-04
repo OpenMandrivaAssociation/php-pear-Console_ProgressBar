@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.2beta
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Provides an easy-to-use interface to progress bars
 License:	PHP License
 Group:		Development/PHP

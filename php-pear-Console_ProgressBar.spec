@@ -5,7 +5,7 @@
 Summary:	Provides an easy-to-use interface to progress bars
 Name:		php-pear-%{upstream_name}
 Version:	0.5.2beta
-Release:	8
+Release:	9
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Console_ProgressBar/

@@ -8,7 +8,7 @@ Version:	0.5.2beta
 Release:	17
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Console_ProgressBar/
+Url:		https://pear.php.net/package/Console_ProgressBar/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
